@@ -1,0 +1,33 @@
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ── virtual envs ──
+.venv/
+venv/
+env/
+
+# ── model weights (auto-downloaded / trained locally) ──
+*.pt
+!weights/.gitkeep
+
+# ── runtime outputs ──
+logs/
+out/
+runs/
+report_text.txt
+
+# ── large media / datasets (keep the repo lean) ──
+data/*.mp4
+data/*.avi
+data/*.mov
+data/smoke_dataset/
+
+# ── editor / OS ──
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
