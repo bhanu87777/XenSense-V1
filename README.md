@@ -14,12 +14,40 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![DeepSORT](https://img.shields.io/badge/DeepSORT-tracking-2D3748?style=for-the-badge)](https://github.com/levan92/deep_sort_realtime)
 
+[![Published](https://img.shields.io/badge/📄_Published-Springer_·_ISBM_Bangkok_2025-EE0000?style=for-the-badge)](#-certification--publication)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 ![Status](https://img.shields.io/badge/status-research_prototype-success?style=flat-square)
 ![Domain](https://img.shields.io/badge/domain-autonomous_driving-informational?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
 </div>
+
+---
+
+## 🏅 Certification & Publication
+
+> The research behind XenSense-V1 was **presented at an international conference and selected for publication by Springer.**
+
+The paper **_"XenSense-V.1: A Survey and Proposed Framework for Video Segmentation and Object Detection in Autonomous Vehicles"_** was accepted and presented at the **4th World Conference on Information Systems for Business Management (ISBM 2025)**, held in **Bangkok, Thailand (24–26 September 2025)**, and was **selected for publication in the ISBM conference proceedings by Springer Nature**.
+
+<div align="center">
+  <img src="assets/screenshots/certificate-isbm-2025.png" alt="ISBM Bangkok 2025 certificate of paper contribution and publication (Springer)" width="62%" />
+</div>
+
+<div align="center">
+
+| | |
+|---|---|
+| 📄 **Paper** | XenSense-V.1: A Survey and Proposed Framework for Video Segmentation and Object Detection in Autonomous Vehicles |
+| 🏛️ **Conference** | 4th World Conference on Information Systems for Business Management (ISBM 2025) |
+| 📍 **Venue** | Bangkok, Thailand · 24–26 September 2025 |
+| 📚 **Publication** | Selected for publication by **Springer Nature** |
+| 👥 **Authors** | Mayanka Gupta, Ayman Amjad, Arjun Prabhakaran, Bhanoday Kurma, **Bhanu Prakash M**, Kiran Agarwal Gupta, Chaitra Ravi, Sindhoor N |
+
+</div>
+
+> This repository is the **practical implementation** that builds on and extends that published framework.
 
 ---
 
